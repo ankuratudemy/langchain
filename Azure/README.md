@@ -1,4 +1,4 @@
-# langchain
+# langchain Azure
 
 # Simple Node.js Scripts
 
