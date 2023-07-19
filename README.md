@@ -28,11 +28,11 @@ Navigate to the project's root directory and install the required dependencies u
 
 Each script is located in its own file and can be executed using Node.js. To run a specific script, use the following command:
 
-node cosmosNLQ.js
+    node cosmosNLQ.js
 
 **4. Explore and Modify**
 
-Feel free to explore the scripts in this repository. They are intended to be simple and easy to understand, making them suitable for learning purposes. You can modify and experiment with the scripts to see how different changes affect their behavior.
+    Feel free to explore the scripts in this repository. They are intended to be simple and easy to understand, making them suitable for learning purposes. You can modify and experiment with the scripts to see how different changes affect their behavior.
 
 ## List of Scripts
 
@@ -41,12 +41,12 @@ Feel free to explore the scripts in this repository. They are intended to be sim
 
 ## Contribution
 
-If you have any improvements or additional scripts that you would like to contribute, feel free to submit a pull request. We welcome contributions from the community!
+    If you have any improvements or additional scripts that you would like to contribute, feel free to submit a pull request. We welcome contributions from the community!
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), which means you can use, modify, and distribute the code as long as you retain the original license text.
+    This project is licensed under the [MIT License](LICENSE), which means you can use, modify, and distribute the code as long as you retain the original license text.
 
 ---
 
-We hope you find these simple Node.js scripts helpful and enjoyable! If you have any questions or encounter any issues, feel free to open an issue in the repository. Happy coding!
+    We hope you find these simple Node.js scripts helpful and enjoyable! If you have any questions or encounter any issues, feel free to open an issue in the repository. Happy coding!
